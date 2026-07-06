@@ -1,0 +1,6 @@
+{
+  "name": "Himanshu Dental Care",
+  "description": "Premium, modern, and elegant dental clinic website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
